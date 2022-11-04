@@ -141,3 +141,76 @@ const marvelCharacters = [
     fightingSkills: 100,
   },
 ];
+
+const dcCharacters = [
+  {
+    name: "Batman",
+    realName: "Bruce Wayne",
+    height: 6.2,
+    weight: 200,
+    power: 100,
+    intelligence: 100,
+    speed: 100,
+    strength: 100,
+    agility: 100,
+    durability: 100,
+    energyProjection: 100,
+    fightingSkills: 100,
+  },
+  {
+    name: "Superman",
+    realName: "Clark Kent",
+    height: 6.2,
+    weight: 200,
+    power: 100,
+    intelligence: 100,
+    speed: 100,
+    strength: 100,
+    agility: 100,
+    durability: 100,
+    energyProjection: 100,
+    fightingSkills: 100,
+  },
+  {
+    name: "Aquaman",
+    realName: "Arthur Curry",
+    height: 6.2,
+    weight: 200,
+    power: 100,
+    intelligence: 100,
+    speed: 100,
+    strength: 100,
+    agility: 100,
+    durability: 100,
+    energyProjection: 100,
+    fightingSkills: 100,
+  }
+];
+
+// Array of strings with the names of the characters
+const marvelCharactersNames = [
+  'Iron Man',
+  'Captain America',
+  'Thor',
+  'Hulk',
+  'Black Widow',
+  'Hawkeye',
+  'Black Panther',
+  'Wolverine',
+  'Captain Marvel',
+  'Doctor Strange'
+];
+
+// Array of strings with the real names of the characters
+const marvelCharactersRealNames = [
+  'Tony Stark',
+  'Steve Rogers',
+  'Thor Odinson',
+  'Bruce Banner',
+  'Natasha Romanoff',
+  'Clint Barton',
+  'T\'Challa',
+  'James Howlett',
+  'Carol Danvers',
+  'Stephen Strange'
+];
